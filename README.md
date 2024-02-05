@@ -34,7 +34,7 @@
 ## 周排行榜
 
 | 排名        |  用户     |  项目名          | Star⭐          | 上周增长量    | 上周增长率    | 今日增长量      |  开源时间   |
-|------------|------------|---------------|---------------- |--------------|----------------|------------|
+|------------|------------|---------------|---------------- |--------------|----------------|------------|------------|
 | 🥇 | <img src="https://avatars.githubusercontent.com/u/55993183?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [FuelLabs/sway](https://github.com/FuelLabs/sway)| 45.8k | 🔺4060 | 🔺9 | 🔺711 | 2021-01-20 |
 | 🥈 | <img src="https://avatars.githubusercontent.com/u/81252890?u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)| 22.9k | 🔺3999 | 🔺21 | 🔺89 | 2023-06-18 |
 | 🥉 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 155.2k | 🔺3406 | 🔺2 | 🔺130 | 2017-04-12 |
