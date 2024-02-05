@@ -12,22 +12,22 @@
 > 周榜最佳项目前3名
 
 - 榜单排名：第1名
-- 开源地址：https://github.com/FuelLabs/sway
-- 开源时间：2021-01-20
-- 开源Stars：45814⭐
-- 周Star增长量：711⭐
+  - 开源地址：https://github.com/FuelLabs/sway
+  - 开源时间：2021-01-20
+  - 开源Stars：45814⭐
+  - 周Star增长量：711⭐
 
 - 榜单排名：第2名
-- 开源地址：https://github.com/mlabonne/llm-course
-- 开源时间：2023-06-18
-- 开源Stars：22931⭐
-- 周Star增长量：89⭐
+  - 开源地址：https://github.com/mlabonne/llm-course
+  - 开源时间：2023-06-18
+  - 开源Stars：22931⭐
+  - 周Star增长量：89⭐
 
 - 榜单排名：第3名
-- 开源地址：https://github.com/practical-tutorials/project-based-learning
-- 开源时间：2017-04-12
-- 开源Stars：155174⭐
-- 周Star增长量：130⭐
+  - 开源地址：https://github.com/practical-tutorials/project-based-learning
+  - 开源时间：2017-04-12
+  - 开源Stars：155174⭐
+  - 周Star增长量：130⭐
 
 
 
