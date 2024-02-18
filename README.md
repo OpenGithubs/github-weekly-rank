@@ -1,1 +1,77 @@
+## Github开源项目每周Star飙升榜
 
+- OpenGithub社区：https://open.itc.cn/
+- Github : https://github.com/OpenGithubs
+- Github 2023:https://github.com/OpenGithubs/Summary2023
+
+## 统计周期：2024.02.12-2024.02.18
+
+- 每周开源项目飙升榜:https://github.com/OpenGithubs/github-weekly-rank
+
+
+> 周榜最佳项目前3名
+
+- 榜单排名：第1名
+    - 开源地址：https://github.com/FuelLabs/sway
+    - 开源时间：2021-01-20
+    - 开源Stars：51020⭐
+    - 周Star增长量：2036⭐
+
+- 榜单排名：第2名
+    - 开源地址：https://github.com/jmorganca/ollama
+    - 开源时间：2023-06-27
+    - 开源Stars：37805⭐
+    - 周Star增长量：1163⭐
+
+- 榜单排名：第3名
+    - 开源地址：https://github.com/janhq/jan
+    - 开源时间：2023-08-17
+    - 开源Stars：10284⭐
+    - 周Star增长量：1037⭐
+
+
+
+## 周排行榜
+
+| 排名        |  用户     |  项目名          | Star⭐          | 上周增长量    | 上周增长率    | 今日增长量      |  开源时间   |
+|------------|------------|---------------|---------------- |--------------|----------------|------------|------------|
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/55993183?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [FuelLabs/sway](https://github.com/FuelLabs/sway)| 51k | 🔺2036 | 🔺4% | 🔺267 | 2021-01-20 |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/151674099?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jmorganca/ollama](https://github.com/jmorganca/ollama)| 37.8k | 🔺1163 | 🔺3% | 🔺157 | 2023-06-27 |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/102363196?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [janhq/jan](https://github.com/janhq/jan)| 10.3k | 🔺1037 | 🔺11% | 🔺321 | 2023-08-17 |
+| 4 | <img src="https://avatars.githubusercontent.com/u/58904235?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)| 244.8k | 🔺999 | 🔺0% | 🔺243 | 2018-05-09 |
+| 5 | <img src="https://avatars.githubusercontent.com/u/170270?u=34acd557a042ac478d273a4621570cadb6b0bd89&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)| 290.1k | 🔺884 | 🔺0% | 🔺147 | 2014-07-11 |
+| 6 | <img src="https://avatars.githubusercontent.com/u/5458997?u=f1007b583e55e7ccfb6ccf0e200051156112dd9b&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)| 246.7k | 🔺884 | 🔺0% | 🔺81 | 2017-02-27 |
+| 7 | <img src="https://avatars.githubusercontent.com/u/21018904?u=bcc423f3536e0ea420dfe438d96b36a7ff2704d7&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)| 82.3k | 🔺827 | 🔺1% | 🔺177 | 2019-09-05 |
+| 8 | <img src="https://avatars.githubusercontent.com/u/24270415?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)| 169.3k | 🔺793 | 🔺0% | 🔺119 | 2015-06-01 |
+| 9 | <img src="https://avatars.githubusercontent.com/u/652070?u=95b472a9a11b64ee0f74512ad918d762d42c213c&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [vinta/awesome-python](https://github.com/vinta/awesome-python)| 198k | 🔺649 | 🔺0% | 🔺127 | 2014-06-28 |
+| 10 | <img src="https://avatars.githubusercontent.com/u/51121562?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [public-apis/public-apis](https://github.com/public-apis/public-apis)| 279.6k | 🔺644 | 🔺0% | 🔺79 | 2016-03-21 |
+| 11 | <img src="https://avatars.githubusercontent.com/u/139895814?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [shadcn/ui](https://github.com/shadcn/ui)| 48.8k | 🔺624 | 🔺1% | 🔺66 | 2023-01-04 |
+| 12 | <img src="https://avatars.githubusercontent.com/u/89421154?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)| 156.5k | 🔺621 | 🔺0% | 🔺125 | 2017-04-12 |
+| 13 | <img src="https://avatars.githubusercontent.com/u/14127308?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)| 312k | 🔺579 | 🔺0% | 🔺86 | 2013-10-11 |
+| 14 | <img src="https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)| 121.2k | 🔺577 | 🔺0% | 🔺151 | 2022-08-22 |
+| 15 | <img src="https://avatars.githubusercontent.com/u/115962839?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [astral-sh/ruff](https://github.com/astral-sh/ruff)| 23.5k | 🔺550 | 🔺2% | 🔺132 | 2022-08-10 |
+| 16 | <img src="https://avatars.githubusercontent.com/u/31127917?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)| 122.7k | 🔺536 | 🔺0% | 🔺85 | 2018-06-23 |
+| 17 | <img src="https://avatars.githubusercontent.com/u/131946000?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [danswer-ai/danswer](https://github.com/danswer-ai/danswer)| 7.1k | 🔺532 | 🔺8% | 🔺43 | 2023-04-27 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/121283862?u=f3e53b07cfbae7136f1796d4f6453827a12c2307&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)| 25.3k | 🔺502 | 🔺2% | 🔺110 | 2023-01-17 |
+| 19 | <img src="https://avatars.githubusercontent.com/u/127876214?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [continuedev/continue](https://github.com/continuedev/continue)| 7.3k | 🔺473 | 🔺6% | 🔺25 | 2023-05-24 |
+| 20 | <img src="https://avatars.githubusercontent.com/u/59795046?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)| 62.2k | 🔺457 | 🔺0% | 🔺82 | 2020-01-13 |
+| 21 | <img src="https://avatars.githubusercontent.com/u/667063?u=c0ea6956bba58ee8baabb6568f0374263ed96f1d&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)| 7.6k | 🔺453 | 🔺6% | 🔺89 | 2023-10-27 |
+| 22 | <img src="https://avatars.githubusercontent.com/u/109746326?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [immich-app/immich](https://github.com/immich-app/immich)| 25.9k | 🔺449 | 🔺1% | 🔺32 | 2022-02-03 |
+| 23 | <img src="https://avatars.githubusercontent.com/u/50630501?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [psf/black](https://github.com/psf/black)| 36.6k | 🔺436 | 🔺1% | 🔺156 | 2018-03-15 |
+| 24 | <img src="https://avatars.githubusercontent.com/u/4921183?u=d6ed3573fc67b699e0c3bc2c7e1fb82c98c40dec&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)| 266.4k | 🔺435 | 🔺0% | 🔺65 | 2017-03-15 |
+| 25 | <img src="https://avatars.githubusercontent.com/u/9892522?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)| 383.6k | 🔺431 | 🔺0% | 🔺44 | 2014-12-25 |
+| 26 | <img src="https://avatars.githubusercontent.com/u/3771963?u=4b348c742192b1963aabbf803a1174d2a4de155a&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)| 278.1k | 🔺431 | 🔺0% | 🔺74 | 2016-06-06 |
+| 27 | <img src="https://avatars.githubusercontent.com/u/79589310?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)| 66.3k | 🔺410 | 🔺0% | 🔺34 | 2020-10-26 |
+| 28 | <img src="https://avatars.githubusercontent.com/u/95485601?u=a8d780d2fca71e6b5b1bebfbd8f17baaddb8d049&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)| 23k | 🔺397 | 🔺1% | 🔺56 | 2023-01-11 |
+| 29 | <img src="https://avatars.githubusercontent.com/u/6154722?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [microsoft/vscode](https://github.com/microsoft/vscode)| 156.2k | 🔺397 | 🔺0% | 🔺30 | 2015-09-04 |
+| 30 | <img src="https://avatars.githubusercontent.com/u/19834515?u=4c7144779a6b13904fec478c4e98e676b91516ee&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)| 31k | 🔺395 | 🔺1% | 🔺102 | 2023-08-10 |
+
+---
+## 更多Github开源项目
+
+以上就是本期的推荐所有项目，如果你喜欢本期的内容，欢迎收藏和关注OpenGithub社区：https://open.itc.cn/，我们会定期推送优质的开源项目。
+
+Github历史期刊:https://github.com/OpenGithubs
+- 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
+- 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
+- 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
