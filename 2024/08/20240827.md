@@ -1,9 +1,8 @@
 ## 2024.08.26 本周最佳开源项目🔝:yuzu
 
 - OpenGithub社区：https://open.itc.cn/
-- 头条社区:>>[进入](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/?source=list&log_from=c71bae3cfad6a_1724740999869)
-- 知乎社区:>>[进入](https://www.zhihu.com/people/OpenGithub)
 - 微信公众号社区:>>[进入](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTQ5Mzk0NA==&action=getalbum&album_id=2943875821830864900&scene=173&subscene=227&sessionid=1724741336&enterid=1724741344&from_msgid=2247486556&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+- 知乎社区: https://www.zhihu.com/people/OpenGithub
 - 日飙升榜: https://github.com/OpenGithubs/github-daily-rank
 - 周飙升榜:https://github.com/OpenGithubs/github-weekly-rank
 - 月飙升榜:https://github.com/OpenGithubs/github-monthly-rank
@@ -63,7 +62,16 @@
 | 13 | <img src="https://avatars.githubusercontent.com/u/45487711?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [n8n-io/n8n](https://github.com/n8n-io/n8n)| 44.3k | 🔺494 | 🔺1% | 🔺55 | 2019-06-22 |  Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. |
 | 14 | <img src="https://avatars.githubusercontent.com/u/45487711?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [n8n-io/n8n](https://github.com/n8n-io/n8n)| 44.3k | 🔺493 | 🔺1% | 🔺55 | 2019-06-22 |  Workflow automation for technical professionals. |
 | 15 | <img src="https://avatars.githubusercontent.com/u/69695708?u=1b1a608998950cb407854549123a52c964a202ec&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [paul-gauthier/aider](https://github.com/paul-gauthier/aider)| 16.8k | 🔺454 | 🔺2% | 🔺62 | 2023-05-10 |  一个支持GPT的编码工具，可以在您的终端中进行使用。它提供了便捷的命令行界面，让您可以轻松地与GPT进行交互，并进行文本生成、对话等任务。Aider为开发人员提供了更方便的方式来利用GPT的强大能力。 |
-| 16 | <img src="https://avatars.githubusercontent.com/u/60715044?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [coollabsio/coolify](https://github.com/coollabsio/coolify)| 28.4k | 🔺442 | 🔺1% | 🔺238 | 2021-01-26 |  一个在GitHub上开源的项目自托管方案，可用于替代Heroku和Netlify。它支持反向代理、免费SSL证书配置、多种常用数据库配置、项目一键安装与升级等功能。coolify旨在提供一个灵活的自托管解决方案，使开发人员能够轻松部署和管理其应用程序。 |
+
+---
+## 更多Github开源项目
+
+以上就是本期的推荐所有项目，如果你喜欢本期的内容，欢迎收藏和关注OpenGithub社区：https://open.itc.cn/，我们会定期推送优质的开源项目。
+
+Github历史期刊:https://github.com/OpenGithubs
+- 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
+- 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
+- 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)�多种常用数据库配置、项目一键安装与升级等功能。coolify旨在提供一个灵活的自托管解决方案，使开发人员能够轻松部署和管理其应用程序。 |
 | 17 | <img src="https://avatars.githubusercontent.com/u/114530840?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [usebruno/bruno](https://github.com/usebruno/bruno)| 24.4k | 🔺428 | 🔺1% | 🔺54 | 2022-09-28 |  一个开源IDE，旨在帮助用户探索和测试API。它是一个轻量级的替代品，可用于执行API请求和测试，类似于Postman或Insomnia。bruno提供了用户友好的界面，使API测试变得简单而高效。它是开发者的有力工具，可用于检查和测试API端点。 |
 | 18 | <img src="https://avatars.githubusercontent.com/u/81252890?u=f9898d723658a498328f14f717e1eeccb42ca675&v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [mlabonne/llm-course](https://github.com/mlabonne/llm-course)| 36.4k | 🔺411 | 🔺1% | 🔺71 | 2023-06-18 |  一个涵盖图神经网络、大型语言模型（LLM）和凸优化等技术领域的文章集合。该项目提供了深入的技术讨论，涵盖了图神经网络的原理、大型语言模型的应用以及凸优化在相关领域中的重要性。 |
 | 19 | <img src="https://avatars.githubusercontent.com/u/109746326?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"> | [immich-app/immich](https://github.com/immich-app/immich)| 42.9k | 🔺361 | 🔺0% | 🔺75 | 2022-02-03 |  一个自托管的照片和视频备份解决方案，可以直接从您的手机上传。它提供了一个安全、便捷的方式来备份您的个人照片和视频，并确保您的数据得到保护和隐私的维护。您可以轻松地将照片和视频上传到自己的服务器，并随时在需要时进行访问和恢复。 |
