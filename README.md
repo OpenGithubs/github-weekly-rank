@@ -38,7 +38,7 @@
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">统计周期：2024.08.22-2024.08.28 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-| 排名        |  项目名          | Star⭐     | 上周增长量    | 上周增长率    |
+| 排名        |  项目名     | Star⭐        | 上周增长量    | 上周增长率    
 |------------|------------|---------------|---------------- |--------------|
 | 1 |  [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)| 38.9k | 🔺5202 | 🔺15% |
 | 2 |  [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)| 45.4k | 🔺1442 | 🔺3% |
