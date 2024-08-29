@@ -247,6 +247,3 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-��信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
