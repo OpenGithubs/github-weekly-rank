@@ -250,23 +250,3 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-��友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-ight-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. 数据库管理工具 https://github.com/pocketbase/pocketbase</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：40.5k
-- 🔺 上周增长数量：330⭐
-- 🔺 上月增长数量：956⭐
-- 📅 开源时间：2022-07-05
-- 📝 项目描述：一个开源后端，将 SQLite 数据库、接口服务、登录认证和管理后台等服务器端功能整合成一个可执行文件。通过用户界面，即使是不懂后端开发的用户，也可以快速构建接口服务，提供方便的数据库管理功能。
-![](https://photocdn.tv.sohu.com/img/github/510607652.png)
-
-
----
-
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
