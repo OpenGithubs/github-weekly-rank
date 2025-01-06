@@ -13,12 +13,12 @@
 
 > 🏆2025.01.05周榜最佳项目前3名
 
-- **榜单增长：第1名: stanford-oval/storm  **
+- **榜单增长：第1名: stanford-oval/storm  斯坦福项目**
     - 开源地址：https://github.com/stanford-oval/storm
     - 📅 开源时间：2024-03-25
     - ⭐ 总星标数量：17101⭐
     - 🔺周Star增长量：3302⭐
-    - 📝 项目描述： An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    - 📝 项目描述： 一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
         ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 - **榜单增长：第2名: microsoft/markitdown  python md工具**
     - 开源地址：https://github.com/microsoft/markitdown
@@ -64,13 +64,13 @@
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2024.12.31-2025.01.05 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 斯坦福项目 https://github.com/stanford-oval/storm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：17.1k
 - 🔺 上周增长数量：3302⭐
 - 🔺 上月增长数量：3342⭐
 - 📅 开源时间：2024-03-25
-- 📝 项目描述：An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- 📝 项目描述：一个来自斯坦福的有潜力的项目。storm 可能在科学研究或工程领域发挥重要作用，其创新的技术和方法值得关注。对于从事相关领域的研究者和开发者来说，是一个值得深入了解的项目。
 ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_b891fc65-6fa7-4a52-8f04-62d286f3dea4.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. python md工具 https://github.com/microsoft/markitdown</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
@@ -115,13 +115,13 @@
 - 📅 开源时间：2024-09-06
 - 📝 项目描述：PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 数据分析 https://github.com/pathwaycom/pathway</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：12.2k
 - 🔺 上周增长数量：1562⭐
 - 🔺 上月增长数量：4025⭐
 - 📅 开源时间：2022-11-27
-- 📝 项目描述：Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- 📝 项目描述：一个强大的数据分析项目。pathway 可以帮助用户更高效地进行数据分析和处理，为企业和个人提供有价值的数据分析解决方案。对于从事数据分析和决策的人来说，这个项目是一个很有价值的工具。
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. RAG聊天应用 https://github.com/Cinnamon/kotaemon</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -158,13 +158,13 @@
 - 📝 项目描述：🙌 OpenHands: Code Less, Make More
 ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_42320ca8-bbc3-4159-ad57-ebaa1a776b74.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/joaomdmoura/crewAI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12. 团队 AI 助手 https://github.com/joaomdmoura/crewAI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：23.9k
 - 🔺 上周增长数量：797⭐
 - 🔺 上月增长数量：1774⭐
 - 📅 开源时间：2023-10-27
-- 📝 项目描述：协调角色扮演、自主AI代理的框架。通过促进协作智能，CrewAI使座席能够无缝地协同工作，处理复杂的任务。
+- 📝 项目描述：一个有潜力的团队协作项目。crewAI 旨在为团队提供智能辅助，提高工作效率和协作效果。无论是项目管理还是日常沟通，都可能从这个工具中受益。
 ![](http://photocdn.tv.sohu.com/img/q_mini/20240115/pic_org_81d44001-1503-4f4b-a157-2eecd44e3ad3.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/XiaoMi/ha_xiaomi_home</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
@@ -244,14 +244,7 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-tHub狐动社“，洞察Github开源动态</span><center>
-⭐
-- 🔺 上月增长数量：1955⭐
+��量：1955⭐
 - 📅 开源时间：2019-11-27
 - 📝 项目描述：简化浏览器自动化的 Python 库。该项目是基于 Selenium 的轻量级 Python 库，它通过提供更高级和易用的 API，让用 Python 编写浏览器自动化脚本变得更加简单和方便，支持 Chrome 和 Firefox 浏览器。
 ![](https://photocdn.tv.sohu.com/img/github/224234024.gif)
