@@ -237,22 +237,6 @@
 ![]()
 
 
----
-
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17.4k
-- 🔺 上周增长数量：182⭐
-- 🔺 上月增长数量：1932⭐
-- 📅 开源时间：2022-02-18
-- 📝 项目描述：快速打造数据驱动的 Web 应用。这是一个基于 Python 和 Flask 的项目，结合了 React 等前端技术，为开发者提供了一个简洁、高效的开发框架。它能够简化数据处理、API 开发和用户界面构建的开发过程。不论是数据科学家、机器学习工程师还是 Web 开发者，都能够利用 Taipy 快速完成从原型到 Web 应用的全过程。来自 [@刘三非](https://hellogithub.com/user/VhrXCAs7cMxL08W) 的分享
-![](https://photocdn.tv.sohu.com/img/github/460914281.gif)
-
 
 ---
 
