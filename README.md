@@ -13,12 +13,13 @@
 
 > 🏆2025.02.09周榜最佳项目前3名
 
-- **榜单增长：第1名: deepseek-ai/DeepSeek-R1  **
+- **榜单增长：第1名: deepseek-ai/DeepSeek-R1  deepseek-r1推理模型**
     - 开源地址：https://github.com/deepseek-ai/DeepSeek-R1
     - 📅 开源时间：2025-01-20
     - ⭐ 总星标数量：69353⭐
     - 🔺周Star增长量：8239⭐
-    - 📝 项目描述： 
+    - 📝 项目描述： DeepSeek-R1 遵循 MIT License，允许用户通过蒸馏技术借助 R1 训练其他模型,在后训练阶段大规模使用了强化学习技术，在仅有极少标注数据的情况下，极大提升了模型推理能力。在数学、代码、自然语言推理等任务上，性能比肩 OpenAI o1 正式版。
+        ![](http://photocdn.tv.sohu.com/img/q_mini/20250208/pic_org_ad82b09d-8bdd-4f9b-bd0f-971450096ada.jpg)
 - **榜单增长：第2名: Mintplex-Labs/anything-llm  通用语言模型**
     - 开源地址：https://github.com/Mintplex-Labs/anything-llm
     - 📅 开源时间：2023-06-04
@@ -63,13 +64,14 @@
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.02.04-2025.02.09 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/deepseek-ai/DeepSeek-R1</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. deepseek-r1推理模型 https://github.com/deepseek-ai/DeepSeek-R1</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：69.4k
 - 🔺 上周增长数量：8239⭐
 - 🔺 上月增长数量：8239⭐
 - 📅 开源时间：2025-01-20
-- 📝 项目描述：
+- 📝 项目描述：DeepSeek-R1 遵循 MIT License，允许用户通过蒸馏技术借助 R1 训练其他模型,在后训练阶段大规模使用了强化学习技术，在仅有极少标注数据的情况下，极大提升了模型推理能力。在数学、代码、自然语言推理等任务上，性能比肩 OpenAI o1 正式版。
+![](http://photocdn.tv.sohu.com/img/q_mini/20250208/pic_org_ad82b09d-8bdd-4f9b-bd0f-971450096ada.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 通用语言模型 https://github.com/Mintplex-Labs/anything-llm</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -238,8 +240,5 @@
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">微信&公众号</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
-信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号”GitHub狐动社“，洞察Github开源动态</span><center>
