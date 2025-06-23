@@ -47,18 +47,18 @@
 | 6 |  [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)| 14.3k | 🔺564 |
 | 7 |  [voideditor/void](https://github.com/voideditor/void)| 24.2k | 🔺471 |
 | 8 |  [huggingface/lerobot](https://github.com/huggingface/lerobot)| 15.1k | 🔺465 |
-| 9 |  [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki)| 2.4k | 🔺459 |
-| 10 |  [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)| 32.6k | 🔺397 |
-| 11 |  [ManimCommunity/manim](https://github.com/ManimCommunity/manim)| 32.7k | 🔺370 |
-| 12 |  [windmill-labs/windmill](https://github.com/windmill-labs/windmill)| 13.7k | 🔺331 |
-| 13 |  [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)| 17.2k | 🔺312 |
-| 14 |  [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)| 31.1k | 🔺308 |
-| 15 |  [anthropics/courses](https://github.com/anthropics/courses)| 15.7k | 🔺291 |
-| 16 |  [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)| 9.2k | 🔺279 |
-| 17 |  [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)| 12.9k | 🔺268 |
-| 18 |  [jj-vcs/jj](https://github.com/jj-vcs/jj)| 16.4k | 🔺250 |
-| 19 |  [moby/buildkit](https://github.com/moby/buildkit)| 9.1k | 🔺247 |
-| 20 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)| 36.2k | 🔺241 |
+| 9 |  [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)| 32.6k | 🔺397 |
+| 10 |  [ManimCommunity/manim](https://github.com/ManimCommunity/manim)| 32.7k | 🔺370 |
+| 11 |  [windmill-labs/windmill](https://github.com/windmill-labs/windmill)| 13.7k | 🔺331 |
+| 12 |  [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree)| 17.2k | 🔺312 |
+| 13 |  [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)| 31.1k | 🔺308 |
+| 14 |  [anthropics/courses](https://github.com/anthropics/courses)| 15.7k | 🔺291 |
+| 15 |  [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)| 9.2k | 🔺279 |
+| 16 |  [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)| 12.9k | 🔺268 |
+| 17 |  [jj-vcs/jj](https://github.com/jj-vcs/jj)| 16.4k | 🔺250 |
+| 18 |  [moby/buildkit](https://github.com/moby/buildkit)| 9.1k | 🔺247 |
+| 19 |  [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)| 36.2k | 🔺241 |
+| 20 |  [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)| 17.7k | 🔺230 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-weekly-rank
 
@@ -132,15 +132,7 @@
 - 📅 开源时间：2024-01-26
 - 📝 项目描述：一个有潜力的智能机器人项目。huggingface/lerobot 可能为用户提供智能对话和任务处理能力，具有广泛的应用前景。无论是在客服、教育还是其他领域，这个项目都有望发挥重要作用。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/chaitin/PandaWiki</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：2.4k
-- 🔺 上周增长数量：459⭐
-- 🔺 上月增长数量：459⭐
-- 📅 开源时间：2025-05-15
-- 📝 项目描述：
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. 用 SQL 开启机器学习的数据库 https://github.com/mindsdb/mindsdb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 用 SQL 开启机器学习的数据库 https://github.com/mindsdb/mindsdb</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：32.6k
 - 🔺 上周增长数量：397⭐
@@ -149,7 +141,7 @@
 - 📝 项目描述：用 SQL 开启机器学习的数据库。把机器学习引入 SQL 数据库将模型作为虚拟表（AI-table），从而省去了数据准备、预处理等步骤，可以直接用 SQL 查询时间序列、回归、分类预测的结果，实现简化机器学习开发流程的效果
 ![](https://photocdn.tv.sohu.com/img/github/143328315.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/ManimCommunity/manim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/ManimCommunity/manim</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：32.7k
 - 🔺 上周增长数量：370⭐
@@ -158,7 +150,7 @@
 - 📝 项目描述：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 ![]()
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/windmill-labs/windmill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/windmill-labs/windmill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：13.7k
 - 🔺 上周增长数量：331⭐
@@ -166,7 +158,7 @@
 - 📅 开源时间：2022-05-05
 - 📝 项目描述：Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13. 定制化音乐播放器 https://github.com/maotoumao/MusicFree</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12. 定制化音乐播放器 https://github.com/maotoumao/MusicFree</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：17.2k
 - 🔺 上周增长数量：312⭐
@@ -175,7 +167,7 @@
 - 📝 项目描述：一款插件化、高度定制化且无广告干扰的音乐播放器。它为用户提供了一个清洁、直观的用户界面，通过自定义插件支持，用户可以根据个人偏好调整播放器功能，享受纯净的音乐体验。
 ![](http://photocdn.tv.sohu.com/img/q_mini/20240412/pic_org_fca8acca-2cde-42dc-a857-72848284d4ff.jpg)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/kuchin/awesome-cto</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/kuchin/awesome-cto</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：31.1k
 - 🔺 上周增长数量：308⭐
@@ -183,7 +175,7 @@
 - 📅 开源时间：2016-12-17
 - 📝 项目描述：A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15. 学习课程 https://github.com/anthropics/courses</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14. 学习课程 https://github.com/anthropics/courses</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：15.7k
 - 🔺 上周增长数量：291⭐
@@ -191,7 +183,7 @@
 - 📅 开源时间：2024-05-30
 - 📝 项目描述：一个有意义的学习课程项目。anthropics/courses 可能为用户提供关于特定领域的学习课程和资源，帮助他们提升知识和技能。对于想要学习新领域知识的人来说，这个项目是一个很好的选择。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/nautechsystems/nautilus_trader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/nautechsystems/nautilus_trader</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9.2k
 - 🔺 上周增长数量：279⭐
@@ -199,7 +191,7 @@
 - 📅 开源时间：2018-06-25
 - 📝 项目描述：A high-performance algorithmic trading platform and event-driven backtester
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/maboloshi/github-chinese</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/maboloshi/github-chinese</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：12.9k
 - 🔺 上周增长数量：268⭐
@@ -208,7 +200,7 @@
 - 📝 项目描述：GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用。来自 [@wuyuncheng-26](https://hellogithub.com/user/zepvSg6Vwl4EqMr) 的分享
 ![](https://photocdn.tv.sohu.com/img/github/410808715.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/jj-vcs/jj</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/jj-vcs/jj</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：16.4k
 - 🔺 上周增长数量：250⭐
@@ -216,7 +208,7 @@
 - 📅 开源时间：2020-12-18
 - 📝 项目描述：A Git-compatible VCS that is both simple and powerful
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/moby/buildkit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/moby/buildkit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9.1k
 - 🔺 上周增长数量：247⭐
@@ -224,7 +216,7 @@
 - 📅 开源时间：2017-06-01
 - 📝 项目描述：concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. Win 工具 https://github.com/ChrisTitusTech/winutil</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19. Win 工具 https://github.com/ChrisTitusTech/winutil</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：36.2k
 - 🔺 上周增长数量：241⭐
@@ -232,6 +224,14 @@
 - 📅 开源时间：2022-04-28
 - 📝 项目描述：一个实用的 Windows 工具集项目。winutil 可以为 Windows 用户提供各种便捷的功能，提高工作效率。对于经常使用 Windows 系统的人来说，是一个很有价值的工具。
 ![](http://photocdn.tv.sohu.com/img/q_mini/20230529/pic_org_20ed9ae8-ecb6-4945-a6ac-48412d768d86.png)
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. 知识检索 https://github.com/HKUDS/LightRAG</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：17.7k
+- 🔺 上周增长数量：230⭐
+- 🔺 上月增长数量：1065⭐
+- 📅 开源时间：2024-10-02
+- 📝 项目描述：一个高效的知识检索项目。HKUDS/LightRAG 可以帮助用户快速准确地检索和获取知识，为学习和研究提供支持。对于需要进行知识管理和检索的人来说，这个项目是一个很实用的工具。
 
 
 ---
@@ -242,11 +242,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�：17.6k
-- 🔺 上周增长数量：266⭐
-- 🔺 上月增长数量：1137⭐
-- 📅 开源时间：2024-10-02
-- 📝 项目描述：一个高效的知识检索项目。HKUDS/LightRAG 可以帮助用户快速准确地检索和获取知识，为学习和研究提供支持。对于需要进行知识管理和检索的人来说，这个项目是一个很实用的工具。
+�为学习和研究提供支持。对于需要进行知识管理和检索的人来说，这个项目是一个很实用的工具。
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/RockChinQ/LangBot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
