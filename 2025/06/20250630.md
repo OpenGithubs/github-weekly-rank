@@ -134,13 +134,14 @@
 - 📝 项目描述：Void is the open-source Cursor alternative. This repo contains the full sourcecode for Void. We have a waitlist for downloading the official release, but you can build and develop Void right now.
 ![](http://photocdn.tv.sohu.com/img/q_mini/20241226/pic_org_5fceaa0a-4517-44ad-9e5c-692b5bec404d.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. 跨平台网络监控工具 https://github.com/GyulyVGC/sniffnet</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：25.1k
 - 🔺 上周增长数量：609⭐
 - 🔺 上月增长数量：1126⭐
 - 📅 开源时间：2022-08-01
-- 📝 项目描述：Comfortably monitor your Internet traffic 🕵️‍♂️
+- 📝 项目描述：一个用 Rust 编写的跨平台网络监控工具，具有图形化界面，支持对本机的实时网络流量进行分析和可视化展示。它简单、直观、开源、安全，适合网络分析爱好者、系统管理员和开发者快速排查网络连接问题或观察设备行为。
+![](http://photocdn.tv.sohu.com/img/q_mini/20250630/pic_org_197545f3-85b5-49f5-aed7-3bb52048bdfc.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/m1k1o/neko</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
