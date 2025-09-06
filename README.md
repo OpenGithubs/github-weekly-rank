@@ -1,11 +1,11 @@
 ## 2025.09.04 本周最佳开源项目🔝:copyparty
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;>关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;> </span></h2>
 
 - OpenGithub社区：https://open.itc.cn/
 - Github : https://github.com/OpenGithubs
 - 微信公众号: >>[搜索开源推荐官](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4039839316019691542)
-- 头条社区: >>[搜索开源推荐官](https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
+- 头条社区: >> [搜索开源推荐官] (https://www.toutiao.com/c/user/token/MS4wLjABAAAAmvfOws0L3K53LliyFX5JSmIS3b8RmD4dj_uwATFbgu4/)
 - 知乎社区: >>[搜索Open Github社区](https://www.zhihu.com/people/OpenGithub)
 - **订阅榜单**: >> [Github日榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065034652468035603#wechat_redirect)
 , [Github周榜](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUwOTU1MTQ3MQ==&action=getalbum&album_id=4065034978231238664#wechat_redirect)
@@ -16,57 +16,61 @@
 
 > 🏆2025.09.04周榜最佳项目前3名
 
-- **榜单增长：第1名: 9001/copyparty  文件分享服务器**
+- **榜单增长：第1名: 9001/copyparty 文件分享服务器**
     - 开源地址：https://github.com/9001/copyparty
     - 📅 开源时间：2019-05-26
     - ⭐ 总星标数量：28771⭐
     - 🔺周Star增长量：1110⭐
-    - 📝 项目描述： 跨平台轻量文件共享工具，支持浏览器访问和强大索引功能。
-        ![](http://photocdn.tv.sohu.com/img/q_mini/20250829/pic_org_6ea77328-ee21-4b14-8c34-511b56ebf85c.jpg)
+    - 📝 项目描述：跨平台轻量文件共享工具，支持浏览器访问和强大索引功能。
+        ![](http://photocdn.tv.sohu.com/img/q Mini/20250829/pic_org_6ea77328-ee21-4b14-8c34-511b56ebf85c.jpg)
 - **榜单增长：第2名: moeru-ai/airi  AI 虚拟助手**
     - 开源地址：https://github.com/moeru-ai/airi
     - 📅 开源时间：2024-12-02
     - ⭐ 总星标数量：12654⭐
     - 🔺周Star增长量：922⭐
-    - 📝 项目描述： 开源虚拟助手框架，支持语音、文本与多模态交互。
+    -📝 项目描述：开源虚拟助手框架，支持语音、文本与多模态交互。
 - **榜单增长：第3名: Canner/WrenAI  AI 应用平台**
     - 开源地址：https://github.com/Canner/WrenAI
     - 📅 开源时间：2024-03-13
     - ⭐ 总星标数量：11605⭐
     - 🔺周Star增长量：867⭐
-    - 📝 项目描述： 提供统一 API 接口，简化多模型调用与部署。
+    -📝 项目描述：提供统一 API 接口，简化多模型调用与部署。
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.30-2025.09.04 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span 
+style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px; "  px" >2025.08.30-2025.09.04 周榜排行< /span>< /span>< style = "display: inline-block; vertical-align: bottom; border-bottom: 36px solid #efebe9; border-right: 20px solid transparent; ">< /span>< /h2>    
 
 | 排名        |  项目名          | Star⭐     | 上周增长量    |
 |------------|------------|---------------|---------------- |
+
 | 1 |  [9001/copyparty](https://github.com/9001/copyparty)| 28.8k | 🔺1110 |
 | 2 |  [moeru-ai/airi](https://github.com/moeru-ai/airi)| 12.7k | 🔺922 |
 | 3 |  [Canner/WrenAI](https://github.com/Canner/WrenAI)| 11.6k | 🔺867 |
-| 4 |  [DS4SD/docling](https://github.com/DS4SD/docling)| 37.9k | 🔺842 |
-| 5 |  [plait-board/drawnix](https://github.com/plait-board/drawnix)| 10.7k | 🔺818 |
-| 6 |  [codexu/note-gen](https://github.com/codexu/note-gen)| 9k | 🔺812 |
-| 7 |  [charmbracelet/crush](https://github.com/charmbracelet/crush)| 11.9k | 🔺728 |
-| 8 |  [anthropics/claude-code](https://github.com/anthropics/claude-code)| 32.6k | 🔺628 |
-| 9 |  [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)| 36.2k | 🔺565 |
-| 10 |  [pathwaycom/pathway](https://github.com/pathwaycom/pathway)| 33.4k | 🔺522 |
-| 11 |  [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)| 19k | 🔺492 |
-| 12 |  [dockur/macos](https://github.com/dockur/macos)| 16.9k | 🔺435 |
-| 13 |  [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)| 14.3k | 🔺434 |
-| 14 |  [chroma-core/chroma](https://github.com/chroma-core/chroma)| 23k | 🔺404 |
-| 15 |  [coleam00/Archon](https://github.com/coleam00/Archon)| 11.6k | 🔺401 |
-| 16 |  [jj-vcs/jj](https://github.com/jj-vcs/jj)| 19.9k | 🔺397 |
-| 17 |  [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)| 7.7k | 🔺383 |
-| 18 |  [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)| 16.4k | 🔺379 |
-| 19 |  [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)| 12.5k | 🔺377 |
-| 20 |  [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)| 30.2k | 🔺377 |
+
+
+
+
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
+
+
+
+
+
+
+
+
+
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-weekly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2025.08.30-2025.09.04 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span 
+style="display: inline-block; background: rgb(239, 112, 96); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px; "  px;">2025.08.30-2025.09.04 周榜项目详情    
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 文件分享服务器 https://github.com/9001/copyparty</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span 
+style="display: inline-block; background: rgb(139, 132, 156); color: rgb(255, 255, 255); padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;  px;">1. 文件分享服务器 https://github.com/9001/copyparty</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：28.8k
 - 🔺 上周增长数量：1110⭐
