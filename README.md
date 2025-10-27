@@ -22,7 +22,8 @@
     - 📅 开源时间：2024-05-30
     - ⭐ 总星标数量：53,385⭐
     - 🔺周Star增长量：3,531⭐
-    - 📝 项目描述： 一个用现代 C++ 编写的浏览器内核项目，目标是构建简洁可维护的网页渲染引擎，适合系统开发者学习研究。
+    - 📝 项目描述： 一个全新的浏览器和网络引擎。由网络驱动 标准优先方法，Ladybird 旨在通过以下方式呈现现代网络 性能好，稳定性好，安全性好。
+        ![](http://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
 - **榜单增长：第2名: jaywcjlove/awesome-mac  **
     - 开源地址：https://github.com/jaywcjlove/awesome-mac
     - 📅 开源时间：2016-07-17
@@ -73,7 +74,8 @@
 - 🔺 上周增长数量：3,531⭐
 - 🔺 上月增长数量：4,460⭐
 - 📅 开源时间：2024-05-30
-- 📝 项目描述：一个用现代 C++ 编写的浏览器内核项目，目标是构建简洁可维护的网页渲染引擎，适合系统开发者学习研究。
+- 📝 项目描述：一个全新的浏览器和网络引擎。由网络驱动 标准优先方法，Ladybird 旨在通过以下方式呈现现代网络 性能好，稳定性好，安全性好。
+![](http://opengithub.cn/image/repos/20251027/d42f678c-319d-4b4b-86dd-3b2745e65a8c.jpg)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/jaywcjlove/awesome-mac</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -116,7 +118,8 @@
 - 🔺 上周增长数量：712⭐
 - 🔺 上月增长数量：2,353⭐
 - 📅 开源时间：2024-04-29
-- 📝 项目描述：不知道 LLM 能干嘛？这个项目集合了各种有趣实用的 LLM 项目案例，是激发灵感和选题方向的宝藏仓库。
+- 📝 项目描述：摘要支持最先进的模型，帮助你快速了解仓库内容。总结此仓库：关于使用 OpenAI、Anthropic、Gemini 和开源模型构建的包含 AI 代理和 RAG 的精彩大语言模型应用合集。
+![](http://opengithub.cn/image/repos/20251027/85c98623-c8be-4f1c-b42d-973226057ea6.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 免费接口 https://github.com/chatanywhere/GPT_API_free</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -245,14 +248,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
- 开源时间：2024-08-02
-- 📝 项目描述：一个活跃的游戏社区项目。mihomo-party-org/mihomo-party 为游戏玩家提供了一个交流互动的平台，玩家可以在这里分享游戏心得、攻略，组织活动等。对于热爱该游戏的玩家来说，这个项目丰富了游戏体验，增强了玩家之间的联系。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+nter><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
