@@ -23,12 +23,12 @@
     - ⭐ 总星标数量：37980⭐
     - 🔺周Star增长量：3512⭐
     - 📝 项目描述： 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
-- **榜单增长：第2名: basecamp/fizzy  **
+- **榜单增长：第2名: basecamp/fizzy  Web 动画引擎**
     - 开源地址：https://github.com/basecamp/fizzy
     - 📅 开源时间：2024-06-21
     - ⭐ 总星标数量：4939⭐
     - 🔺周Star增长量：2158⭐
-    - 📝 项目描述： Kanban as it should be. Not as it has been.
+    - 📝 项目描述： Fizzy 是 Basecamp 开源的轻量级 Web 动画库，提供自然、弹性、流畅的 UI 动效实现能力。通过简化的 API 使交互动效更易实现，适合前端工程师在产品界面中构建高质量体验。
 - **榜单增长：第3名: oven-sh/bun  JavaScript运行时工具包**
     - 开源地址：https://github.com/oven-sh/bun
     - 📅 开源时间：2021-04-14
@@ -75,13 +75,13 @@
 - 📅 开源时间：2025-04-28
 - 📝 项目描述：🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/basecamp/fizzy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. Web 动画引擎 https://github.com/basecamp/fizzy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.9k
 - 🔺 上周增长数量：2158⭐
 - 🔺 上月增长数量：2158⭐
 - 📅 开源时间：2024-06-21
-- 📝 项目描述：Kanban as it should be. Not as it has been.
+- 📝 项目描述：Fizzy 是 Basecamp 开源的轻量级 Web 动画库，提供自然、弹性、流畅的 UI 动效实现能力。通过简化的 API 使交互动效更易实现，适合前端工程师在产品界面中构建高质量体验。
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3. JavaScript运行时工具包 https://github.com/oven-sh/bun</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -101,45 +101,45 @@
 - 📝 项目描述：一个开源 AI 黑客代理工具，专为开发者和安全团队设计，用来自动化渗透测试、漏洞验证与报告生成。支持本地代码库或在线应用扫描、CI/CD 流水线集成，能够像真正的“黑客”那样模拟攻击路径、生成 PoC（概念验证），然后给出可操作的修复建议。它将繁琐的手动渗透测试流程自动化、加速化，从而提升应用安全性与开发效率。
 ![](https://opengithub.cn/image/repos/20251112/411c7662-8c7d-4081-9fe2-d239ca03a9b2.png)
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/DayuanJiang/next-ai-draw-io</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5. AI 绘图 Draw.io https://github.com/DayuanJiang/next-ai-draw-io</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：4.5k
 - 🔺 上周增长数量：1455⭐
 - 🔺 上月增长数量：1455⭐
 - 📅 开源时间：2025-03-23
-- 📝 项目描述：A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+- 📝 项目描述：基于 AI 的 draw.io 图形生成器，可自动将指令转换为架构图、流程图、系统设计草图。通过 LLM 自动布局、语义理解和结构生成，大幅提升文档与系统设计效率。适合工程师、架构师和产品人员使用。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/microsoft/VibeVoice</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6. 多模态语音模型框架 https://github.com/microsoft/VibeVoice</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：11.8k
 - 🔺 上周增长数量：1326⭐
 - 🔺 上月增长数量：1326⭐
 - 📅 开源时间：2025-08-25
-- 📝 项目描述：Open-Source Frontier Voice AI
+- 📝 项目描述：VibeVoice 是微软推出的开源语音模型，用于语音识别、合成、语音理解等任务。支持大规模训练与推理，是构建智能语音系统的重要基础组件，也支持与多模态模型结合。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/ashishpatel26/500-AI-Agents-Projects</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7. 500 个 AI Agents 项目集 https://github.com/ashishpatel26/500-AI-Agents-Projects</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：19.2k
 - 🔺 上周增长数量：1317⭐
 - 🔺 上月增长数量：1317⭐
 - 📅 开源时间：2024-12-20
-- 📝 项目描述：The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+- 📝 项目描述：汇总 500+ 个 AI Agent 项目及示例，涵盖自动化、数据处理、编程助手、游戏 Agent 等领域。适合学习 Agent 生态、快速找到参考项目或构建自己的 Agent 系统，是极具价值的资源导航库。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8. Rust 实现的虚拟文件系统 https://github.com/rustfs/rustfs</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：15.4k
 - 🔺 上周增长数量：1182⭐
 - 🔺 上月增长数量：1182⭐
 - 📅 开源时间：2023-11-23
-- 📝 项目描述：🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- 📝 项目描述：RustFS 是一个 Rust 编写的 VFS 框架，用于构建虚拟文件系统、高性能存储层或自定义文件协议。适合系统开发者研究文件系统结构或构建定制化的存储方案。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9. Serverless 开发框架 https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：36.6k
 - 🔺 上周增长数量：1141⭐
 - 🔺 上月增长数量：1141⭐
 - 📅 开源时间：2025-05-01
-- 📝 项目描述：The AI coding agent built for the terminal.
+- 📝 项目描述：OpenCode 是基于 SST 的开源 serverless 框架，简化云上开发、部署、环境管理过程。适合快速搭建 API、后台服务、边缘函数等应用，开发体验优秀，适合全栈开发者。
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10. n8n 工作流集合 https://github.com/Zie619/n8n-workflows</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -242,20 +242,5 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-der-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20. 火山引擎 VRL https://github.com/volcengine/verl</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17k
-- 🔺 上周增长数量：448⭐
-- 🔺 上月增长数量：1529⭐
-- 📅 开源时间：2024-10-31
-- 📝 项目描述：火山引擎推出的通用大模型推理框架，支持多硬件平台、分布式与高性能加速。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
+br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
