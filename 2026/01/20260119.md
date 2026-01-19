@@ -235,15 +235,3 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-�构建结构化、叙事型数据可视化。适用于报告、分析和数据展示场景。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-/photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
