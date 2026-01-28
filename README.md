@@ -17,12 +17,13 @@
 
 > 🏆2026.01.27周榜最佳项目前3名
 
-- **榜单增长：第1名: clawdbot/clawdbot  **
+- **榜单增长：第1名: clawdbot/clawdbot  人工智能助手**
     - 开源地址：https://github.com/clawdbot/clawdbot
     - 📅 开源时间：2025-11-24
     - ⭐ 总星标数量：68237⭐
     - 🔺周Star增长量：22657⭐
-    - 📝 项目描述： 
+    - 📝 项目描述： Moltbot 是一款可在个人设备端部署的专属 AI 助手；可在你日常使用的各类渠道直接响应需求，涵盖 WhatsApp、电报、斯拉克、迪斯科德、谷歌聊天、信令、苹果即时通讯、微软团队、网页聊天，同时支持蓝泡、矩阵、扎罗、扎罗个人等拓展渠道；在苹果电脑系统、苹果移动系统、安卓系统中均可实现语音交互，还能生成由你操控的实时交互画布；网关仅为控制中枢，核心产品为该智能助手。
+        ![](https://opengithub.cn/image/repos/20260128/226806ce-3ab5-4207-9f9a-4bc62ce793ea.png)
 - **榜单增长：第2名: sst/opencode  开源代码生成平台**
     - 开源地址：https://github.com/sst/opencode
     - 📅 开源时间：2025-05-01
@@ -66,13 +67,14 @@
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.01.22-2026.01.27 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/clawdbot/clawdbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1. 人工智能助手 https://github.com/clawdbot/clawdbot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：68.2k
 - 🔺 上周增长数量：22657⭐
 - 🔺 上月增长数量：22657⭐
 - 📅 开源时间：2025-11-24
-- 📝 项目描述：
+- 📝 项目描述：Moltbot 是一款可在个人设备端部署的专属 AI 助手；可在你日常使用的各类渠道直接响应需求，涵盖 WhatsApp、电报、斯拉克、迪斯科德、谷歌聊天、信令、苹果即时通讯、微软团队、网页聊天，同时支持蓝泡、矩阵、扎罗、扎罗个人等拓展渠道；在苹果电脑系统、苹果移动系统、安卓系统中均可实现语音交互，还能生成由你操控的实时交互画布；网关仅为控制中枢，核心产品为该智能助手。
+![](https://opengithub.cn/image/repos/20260128/226806ce-3ab5-4207-9f9a-4bc62ce793ea.png)
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2. 开源代码生成平台 https://github.com/sst/opencode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
@@ -225,19 +227,6 @@
 - 🔺 上月增长数量：11481⭐
 - 📅 开源时间：2025-06-15
 - 📝 项目描述：Vibe Kanban 是一款结合 AI 的看板式任务管理工具，强调自然语言、上下文理解与轻量协作。它适用于个人效率管理和小团队协作，尝试降低传统项目管理工具的使用门槛。
-
-
----
-## 更多Github开源项目,请关注微信&公众号
-
-<center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
-<br/>
-<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
-<br/>
-<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-om/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-��间：2025-04-28
-- 📝 项目描述：🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
 
 
 ---
