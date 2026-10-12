@@ -1,4 +1,4 @@
-## 2026.10.04 本周最佳开源项目🔝:laya
+## 2026.10.11 本周最佳开源项目🔝:dots
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -16,222 +16,227 @@
 
 
 
-> 🏆2026.10.04周榜最佳项目前3名
+> 🏆2026.10.11周榜最佳项目前3名
 
-- **榜单增长：第1名: NandhaKishorM/laya  **
-    - 开源地址：https://github.com/NandhaKishorM/laya
-    - 📅 开源时间：2026-09-21
-    - ⭐ 总星标数量：30434⭐
-    - 🔺周Star增长量：5965⭐
-    - 📝 项目描述： Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-- **榜单增长：第2名: NVIDIA/OpenShell  **
-    - 开源地址：https://github.com/NVIDIA/OpenShell
-    - 📅 开源时间：2026-02-25
-    - ⭐ 总星标数量：14639⭐
-    - 🔺周Star增长量：4172⭐
-    - 📝 项目描述： OpenShell is the safe, private runtime for autonomous AI agents.
-- **榜单增长：第3名: dream-num/univer  **
-    - 开源地址：https://github.com/dream-num/univer
-    - 📅 开源时间：2022-09-29
-    - ⭐ 总星标数量：22331⭐
-    - 🔺周Star增长量：4004⭐
-    - 📝 项目描述： The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+- **榜单增长：第1名: feder-cr/dots  **
+    - 开源地址：https://github.com/feder-cr/dots
+    - 📅 开源时间：2026-10-02
+    - ⭐ 总星标数量：31934⭐
+    - 🔺周Star增长量：29362⭐
+    - 📝 项目描述： Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
+- **榜单增长：第2名: boykopovar/AnyPS5  **
+    - 开源地址：https://github.com/boykopovar/AnyPS5
+    - 📅 开源时间：2026-08-04
+    - ⭐ 总星标数量：26033⭐
+    - 🔺周Star增长量：22512⭐
+    - 📝 项目描述： Tool for automatic PS5 executables porting to Linux and Windows
+- **榜单增长：第3名: storytold/artcraft  **
+    - 开源地址：https://github.com/storytold/artcraft
+    - 📅 开源时间：2022-04-01
+    - ⭐ 总星标数量：13893⭐
+    - 🔺周Star增长量：6359⭐
+    - 📝 项目描述： ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.29-2026.10.04 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.06-2026.10.11 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名          | Star⭐     | 上周增长量    |
 |------------|------------|---------------|---------------- |
-| 1 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 30.4k | 🔺5965 |
-| 2 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 14.6k | 🔺4172 |
-| 3 |  [dream-num/univer](https://github.com/dream-num/univer)| 22.3k | 🔺4004 |
-| 4 |  [t8y2/dbx](https://github.com/t8y2/dbx)| 24.3k | 🔺3630 |
-| 5 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 19k | 🔺2635 |
-| 6 |  [pacifio/atlas](https://github.com/pacifio/atlas)| 8.9k | 🔺2376 |
-| 7 |  [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)| 5.4k | 🔺2329 |
-| 8 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 23.9k | 🔺2326 |
-| 9 |  [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)| 39.5k | 🔺1974 |
-| 10 |  [oblien/openship](https://github.com/oblien/openship)| 14.4k | 🔺1956 |
-| 11 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 23.2k | 🔺1836 |
-| 12 |  [robbietilton/Compositor](https://github.com/robbietilton/Compositor)| 7.3k | 🔺1719 |
-| 13 |  [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)| 21.9k | 🔺1703 |
-| 14 |  [JustVugg/colibri](https://github.com/JustVugg/colibri)| 39.3k | 🔺1640 |
-| 15 |  [google/ax](https://github.com/google/ax)| 13k | 🔺1629 |
-| 16 |  [TencentCloud/Octop](https://github.com/TencentCloud/Octop)| 6.6k | 🔺1617 |
-| 17 |  [trycua/cua](https://github.com/trycua/cua)| 27.9k | 🔺1568 |
-| 18 |  [jaredpalmer/kev](https://github.com/jaredpalmer/kev)| 8.4k | 🔺1396 |
-| 19 |  [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)| 23k | 🔺1388 |
-| 20 |  [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)| 8.6k | 🔺1313 |
+| 1 |  [feder-cr/dots](https://github.com/feder-cr/dots)| 31.9k | 🔺29362 |
+| 2 |  [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)| 26k | 🔺22512 |
+| 3 |  [storytold/artcraft](https://github.com/storytold/artcraft)| 13.9k | 🔺6359 |
+| 4 |  [tester-army/e2e](https://github.com/tester-army/e2e)| 8.7k | 🔺5695 |
+| 5 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 9.1k | 🔺5050 |
+| 6 |  [openai/math](https://github.com/openai/math)| 13.6k | 🔺4324 |
+| 7 |  [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)| 6.3k | 🔺3777 |
+| 8 |  [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)| 27.5k | 🔺3637 |
+| 9 |  [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)| 25.7k | 🔺2714 |
+| 10 |  [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)| 28.7k | 🔺2680 |
+| 11 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 25.8k | 🔺2631 |
+| 12 |  [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)| 32.9k | 🔺2502 |
+| 13 |  [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)| 19k | 🔺2348 |
+| 14 |  [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)| 4.8k | 🔺2346 |
+| 15 |  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)| 26.8k | 🔺2209 |
+| 16 |  [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo)| 6.9k | 🔺2015 |
+| 17 |  [TencentCloud/Octop](https://github.com/TencentCloud/Octop)| 8.5k | 🔺1940 |
+| 18 |  [pablostanley/yoinks](https://github.com/pablostanley/yoinks)| 5.7k | 🔺1893 |
+| 19 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 20.8k | 🔺1769 |
+| 20 |  [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)| 32.1k | 🔺1704 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-weekly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.09.29-2026.10.04 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.06-2026.10.11 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/NandhaKishorM/laya</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/feder-cr/dots</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：30.4k
-- 🔺 上周增长数量：5965⭐
-- 🔺 上月增长数量：26546⭐
-- 📅 开源时间：2026-09-21
-- 📝 项目描述：Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+- ⭐ 总星标数量：31.9k
+- 🔺 上周增长数量：29362⭐
+- 🔺 上月增长数量：29581⭐
+- 📅 开源时间：2026-10-02
+- 📝 项目描述：Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/NVIDIA/OpenShell</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/boykopovar/AnyPS5</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：14.6k
-- 🔺 上周增长数量：4172⭐
-- 🔺 上月增长数量：4172⭐
-- 📅 开源时间：2026-02-25
-- 📝 项目描述：OpenShell is the safe, private runtime for autonomous AI agents.
+- ⭐ 总星标数量：26k
+- 🔺 上周增长数量：22512⭐
+- 🔺 上月增长数量：22512⭐
+- 📅 开源时间：2026-08-04
+- 📝 项目描述：Tool for automatic PS5 executables porting to Linux and Windows
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/dream-num/univer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/storytold/artcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：22.3k
-- 🔺 上周增长数量：4004⭐
-- 🔺 上月增长数量：7015⭐
-- 📅 开源时间：2022-09-29
-- 📝 项目描述：The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+- ⭐ 总星标数量：13.9k
+- 🔺 上周增长数量：6359⭐
+- 🔺 上月增长数量：6359⭐
+- 📅 开源时间：2022-04-01
+- 📝 项目描述：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/t8y2/dbx</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/tester-army/e2e</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：24.3k
-- 🔺 上周增长数量：3630⭐
-- 🔺 上月增长数量：6782⭐
-- 📅 开源时间：2026-08-31
-- 📝 项目描述：25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+- ⭐ 总星标数量：8.7k
+- 🔺 上周增长数量：5695⭐
+- 🔺 上月增长数量：5695⭐
+- 📅 开源时间：2026-07-22
+- 📝 项目描述：Next generation e2e testing framework for web and mobile apps.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/hypit-ai/hypit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19k
-- 🔺 上周增长数量：2635⭐
-- 🔺 上月增长数量：10789⭐
-- 📅 开源时间：2026-07-30
-- 📝 项目描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- ⭐ 总星标数量：9.1k
+- 🔺 上周增长数量：5050⭐
+- 🔺 上月增长数量：5050⭐
+- 📅 开源时间：2026-07-19
+- 📝 项目描述：Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/pacifio/atlas</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/openai/math</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8.9k
-- 🔺 上周增长数量：2376⭐
-- 🔺 上月增长数量：6107⭐
-- 📅 开源时间：2026-05-15
-- 📝 项目描述：Source control for agents. Use multiple coding agents, track their changes and query them in one place
+- ⭐ 总星标数量：13.6k
+- 🔺 上周增长数量：4324⭐
+- 🔺 上月增长数量：4324⭐
+- 📅 开源时间：2026-10-08
+- 📝 项目描述：
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/KKKKhazix/AIHOT</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/rehan-remade/universal-modder</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：5.4k
-- 🔺 上周增长数量：2329⭐
-- 🔺 上月增长数量：2329⭐
-- 📅 开源时间：2026-09-30
-- 📝 项目描述：一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- ⭐ 总星标数量：6.3k
+- 🔺 上周增长数量：3777⭐
+- 🔺 上月增长数量：4230⭐
+- 📅 开源时间：2026-10-03
+- 📝 项目描述：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/cloudflare/security-audit-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：23.9k
-- 🔺 上周增长数量：2326⭐
-- 🔺 上月增长数量：17008⭐
+- ⭐ 总星标数量：27.5k
+- 🔺 上周增长数量：3637⭐
+- 🔺 上月增长数量：20645⭐
 - 📅 开源时间：2026-06-18
 - 📝 项目描述：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/zhaoxuya520/reverse-skill</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/liquidslr/system-design-notes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：39.5k
-- 🔺 上周增长数量：1974⭐
-- 🔺 上月增长数量：9403⭐
-- 📅 开源时间：2026-05-13
-- 📝 项目描述：Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/oblien/openship</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：14.4k
-- 🔺 上周增长数量：1956⭐
-- 🔺 上月增长数量：2668⭐
-- 📅 开源时间：2026-03-06
-- 📝 项目描述：Self-hosted deployment platform
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：23.2k
-- 🔺 上周增长数量：1836⭐
-- 🔺 上月增长数量：10174⭐
-- 📅 开源时间：2026-06-12
-- 📝 项目描述：Free and open-source macOS menu bar toolkit.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/robbietilton/Compositor</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：7.3k
-- 🔺 上周增长数量：1719⭐
-- 🔺 上月增长数量：4947⭐
-- 📅 开源时间：2026-09-20
-- 📝 项目描述：The Photoshop alternative for Mac
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/browser-use/jev-ultrafast</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：21.9k
-- 🔺 上周增长数量：1703⭐
-- 🔺 上月增长数量：16509⭐
-- 📅 开源时间：2026-09-19
-- 📝 项目描述：Fastest and cheapest web agent
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/JustVugg/colibri</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：39.3k
-- 🔺 上周增长数量：1640⭐
-- 🔺 上月增长数量：11858⭐
-- 📅 开源时间：2026-07-01
-- 📝 项目描述：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/google/ax</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：13k
-- 🔺 上周增长数量：1629⭐
-- 🔺 上月增长数量：5536⭐
-- 📅 开源时间：2026-03-31
-- 📝 项目描述：Google's open agentic orchestration runtime
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/TencentCloud/Octop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6.6k
-- 🔺 上周增长数量：1617⭐
-- 🔺 上月增长数量：3165⭐
-- 📅 开源时间：2026-07-08
-- 📝 项目描述：A smarter, self-hosted AI assistant — multi-user, multi-agent.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/trycua/cua</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：27.9k
-- 🔺 上周增长数量：1568⭐
-- 🔺 上月增长数量：3626⭐
-- 📅 开源时间：2025-01-31
-- 📝 项目描述：Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/jaredpalmer/kev</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：8.4k
-- 🔺 上周增长数量：1396⭐
-- 🔺 上月增长数量：5988⭐
-- 📅 开源时间：2026-09-22
-- 📝 项目描述：Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/liquidslr/system-design-notes</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：23k
-- 🔺 上周增长数量：1388⭐
-- 🔺 上月增长数量：1388⭐
+- ⭐ 总星标数量：25.7k
+- 🔺 上周增长数量：2714⭐
+- 🔺 上月增长数量：4102⭐
 - 📅 开源时间：2024-12-24
 - 📝 项目描述：Notes of the book System Desgin Interview - An Insider's Guide
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/mobile-next/mobile-mcp</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/anthropics/knowledge-work-plugins</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8.6k
-- 🔺 上周增长数量：1313⭐
-- 🔺 上月增长数量：1313⭐
-- 📅 开源时间：2025-03-29
-- 📝 项目描述：Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+- ⭐ 总星标数量：28.7k
+- 🔺 上周增长数量：2680⭐
+- 🔺 上月增长数量：4807⭐
+- 📅 开源时间：2026-01-24
+- 📝 项目描述：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：25.8k
+- 🔺 上周增长数量：2631⭐
+- 🔺 上月增长数量：10364⭐
+- 📅 开源时间：2026-06-12
+- 📝 项目描述：Free and open-source macOS menu bar toolkit.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/tashfeenahmed/freellmapi</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：32.9k
+- 🔺 上周增长数量：2502⭐
+- 🔺 上月增长数量：2688⭐
+- 📅 开源时间：2026-04-21
+- 📝 项目描述：7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/earthtojake/text-to-cad</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：19k
+- 🔺 上周增长数量：2348⭐
+- 🔺 上月增长数量：4524⭐
+- 📅 开源时间：2026-04-22
+- 📝 项目描述：Give your agent CAD superpowers.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/CopilotKit/OpenDots</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：4.8k
+- 🔺 上周增长数量：2346⭐
+- 🔺 上月增长数量：2346⭐
+- 📅 开源时间：2026-10-04
+- 📝 项目描述：Your always-on AI coworkers that move between text, calls, and Slack.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/pingdotgg/t3code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：26.8k
+- 🔺 上周增长数量：2209⭐
+- 🔺 上月增长数量：5017⭐
+- 📅 开源时间：2026-02-09
+- 📝 项目描述：
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/Albert-Weasker/niubigeo</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：6.9k
+- 🔺 上周增长数量：2015⭐
+- 🔺 上月增长数量：4709⭐
+- 📅 开源时间：2026-09-09
+- 📝 项目描述：Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/TencentCloud/Octop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：8.5k
+- 🔺 上周增长数量：1940⭐
+- 🔺 上月增长数量：5105⭐
+- 📅 开源时间：2026-07-08
+- 📝 项目描述：A smarter, self-hosted AI assistant — multi-user, multi-agent.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/pablostanley/yoinks</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：5.7k
+- 🔺 上周增长数量：1893⭐
+- 🔺 上月增长数量：2817⭐
+- 📅 开源时间：2026-07-16
+- 📝 项目描述：yoink any video from your terminal. no shady ads.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/hypit-ai/hypit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：20.8k
+- 🔺 上周增长数量：1769⭐
+- 🔺 上月增长数量：12558⭐
+- 📅 开源时间：2026-07-30
+- 📝 项目描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/NandhaKishorM/laya</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：32.1k
+- 🔺 上周增长数量：1704⭐
+- 🔺 上月增长数量：28250⭐
+- 📅 开源时间：2026-09-21
+- 📝 项目描述：Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
 
 ---
 ## 更多Github开源项目,请关注微信&公众号
 
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
+<br/>
+<center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
