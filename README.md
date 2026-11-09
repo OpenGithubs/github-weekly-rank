@@ -1,4 +1,4 @@
-## 2026.11.01 本周最佳开源项目🔝:Claude-Code-Game-Studios
+## 2026.11.08 本周最佳开源项目🔝:dsh-superagent-prototype
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -16,216 +16,216 @@
 
 
 
-> 🏆2026.11.01周榜最佳项目前3名
+> 🏆2026.11.08周榜最佳项目前3名
 
-- **榜单增长：第1名: Donchitos/Claude-Code-Game-Studios  **
+- **榜单增长：第1名: deepseek-ai/dsh-superagent-prototype  **
+    - 开源地址：https://github.com/deepseek-ai/dsh-superagent-prototype
+    - 📅 开源时间：2026-11-01
+    - ⭐ 总星标数量：16400⭐
+    - 🔺周Star增长量：14286⭐
+    - 📝 项目描述： Towards a More Autonomous Agent System
+- **榜单增长：第2名: Donchitos/Claude-Code-Game-Studios  **
     - 开源地址：https://github.com/Donchitos/Claude-Code-Game-Studios
     - 📅 开源时间：2026-02-12
-    - ⭐ 总星标数量：32054⭐
-    - 🔺周Star增长量：4392⭐
+    - ⭐ 总星标数量：34494⭐
+    - 🔺周Star增长量：6071⭐
     - 📝 项目描述： Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-- **榜单增长：第2名: pengchujin/aerial-tv  **
-    - 开源地址：https://github.com/pengchujin/aerial-tv
-    - 📅 开源时间：2026-10-22
-    - ⭐ 总星标数量：8032⭐
-    - 🔺周Star增长量：4247⭐
-    - 📝 项目描述： 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
-- **榜单增长：第3名: deepseek-ai/DeepInfer  **
-    - 开源地址：https://github.com/deepseek-ai/DeepInfer
-    - 📅 开源时间：2026-10-21
-    - ⭐ 总星标数量：24476⭐
-    - 🔺周Star增长量：3516⭐
-    - 📝 项目描述： DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+- **榜单增长：第3名: ccch1mneyyy/dsh-Go  **
+    - 开源地址：https://github.com/ccch1mneyyy/dsh-Go
+    - 📅 开源时间：2026-10-31
+    - ⭐ 总星标数量：7331⭐
+    - 🔺周Star增长量：4915⭐
+    - 📝 项目描述： dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.27-2026.11.01 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.03-2026.11.08 周榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名          | Star⭐     | 上周增长量    |
 |------------|------------|---------------|---------------- |
-| 1 |  [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)| 32.1k | 🔺4392 |
-| 2 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 8k | 🔺4247 |
-| 3 |  [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)| 24.5k | 🔺3516 |
-| 4 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 23k | 🔺3345 |
-| 5 |  [unclebob/ub-mode](https://github.com/unclebob/ub-mode)| 5.3k | 🔺3164 |
-| 6 |  [pingdotgg/t3code](https://github.com/pingdotgg/t3code)| 32.6k | 🔺2966 |
-| 7 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 5.5k | 🔺2703 |
-| 8 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 17.7k | 🔺2471 |
-| 9 |  [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)| 23.5k | 🔺2439 |
-| 10 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 5.9k | 🔺2199 |
-| 11 |  [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)| 20.8k | 🔺2126 |
-| 12 |  [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)| 4.6k | 🔺2027 |
-| 13 |  [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)| 34k | 🔺1896 |
-| 14 |  [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)| 5k | 🔺1851 |
-| 15 |  [storytold/artcraft](https://github.com/storytold/artcraft)| 37.8k | 🔺1850 |
-| 16 |  [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)| 20.9k | 🔺1843 |
-| 17 |  [hypit-ai/hypit](https://github.com/hypit-ai/hypit)| 26.8k | 🔺1759 |
-| 18 |  [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)| 6.6k | 🔺1731 |
-| 19 |  [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)| 29.9k | 🔺1667 |
-| 20 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 31.2k | 🔺1665 |
+| 1 |  [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)| 16.4k | 🔺14286 |
+| 2 |  [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)| 34.5k | 🔺6071 |
+| 3 |  [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)| 7.3k | 🔺4915 |
+| 4 |  [unclebob/ub-mode](https://github.com/unclebob/ub-mode)| 6.8k | 🔺4603 |
+| 5 |  [heydamir/unslop](https://github.com/heydamir/unslop)| 7.3k | 🔺3945 |
+| 6 |  [storytold/craft-anything](https://github.com/storytold/craft-anything)| 7.7k | 🔺3836 |
+| 7 |  [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)| 24.4k | 🔺3391 |
+| 8 |  [wangzan101/Mika](https://github.com/wangzan101/Mika)| 6k | 🔺3339 |
+| 9 |  [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)| 9.3k | 🔺3316 |
+| 10 |  [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)| 19.1k | 🔺2898 |
+| 11 |  [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)| 6.1k | 🔺2874 |
+| 12 |  [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)| 10k | 🔺2813 |
+| 13 |  [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)| 5.8k | 🔺2667 |
+| 14 |  [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)| 32.7k | 🔺2655 |
+| 15 |  [HeyPuter/everything](https://github.com/HeyPuter/everything)| 6.8k | 🔺2652 |
+| 16 |  [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)| 6.4k | 🔺2353 |
+| 17 |  [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)| 25.2k | 🔺2205 |
+| 18 |  [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)| 24.2k | 🔺2185 |
+| 19 |  [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)| 30.5k | 🔺1922 |
+| 20 |  [jakubkrehel/skills](https://github.com/jakubkrehel/skills)| 10.6k | 🔺1920 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-weekly-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.10.27-2026.11.01 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.11.03-2026.11.08 周榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/Donchitos/Claude-Code-Game-Studios</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/deepseek-ai/dsh-superagent-prototype</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：32.1k
-- 🔺 上周增长数量：4392⭐
-- 🔺 上月增长数量：6349⭐
+- ⭐ 总星标数量：16.4k
+- 🔺 上周增长数量：14286⭐
+- 🔺 上月增长数量：14286⭐
+- 📅 开源时间：2026-11-01
+- 📝 项目描述：Towards a More Autonomous Agent System
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/Donchitos/Claude-Code-Game-Studios</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：34.5k
+- 🔺 上周增长数量：6071⭐
+- 🔺 上月增长数量：8725⭐
 - 📅 开源时间：2026-02-12
 - 📝 项目描述：Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/ccch1mneyyy/dsh-Go</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：8k
-- 🔺 上周增长数量：4247⭐
-- 🔺 上月增长数量：6010⭐
-- 📅 开源时间：2026-10-22
-- 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+- ⭐ 总星标数量：7.3k
+- 🔺 上周增长数量：4915⭐
+- 🔺 上月增长数量：4915⭐
+- 📅 开源时间：2026-10-31
+- 📝 项目描述：dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/deepseek-ai/DeepInfer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/unclebob/ub-mode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：24.5k
-- 🔺 上周增长数量：3516⭐
-- 🔺 上月增长数量：12539⭐
-- 📅 开源时间：2026-10-21
-- 📝 项目描述：DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+- ⭐ 总星标数量：6.8k
+- 🔺 上周增长数量：4603⭐
+- 🔺 上月增长数量：4603⭐
+- 📅 开源时间：2026-10-28
+- 📝 项目描述：
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/heydamir/unslop</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：23k
-- 🔺 上周增长数量：3345⭐
-- 🔺 上月增长数量：19820⭐
+- ⭐ 总星标数量：7.3k
+- 🔺 上周增长数量：3945⭐
+- 🔺 上月增长数量：3945⭐
+- 📅 开源时间：2026-11-01
+- 📝 项目描述：A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/storytold/craft-anything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：7.7k
+- 🔺 上周增长数量：3836⭐
+- 🔺 上月增长数量：3836⭐
+- 📅 开源时间：2026-11-03
+- 📝 项目描述：Craft Anything: understand how any software works, and craft your own.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/wheresryan22/anatomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：24.4k
+- 🔺 上周增长数量：3391⭐
+- 🔺 上月增长数量：21242⭐
 - 📅 开源时间：2026-10-12
 - 📝 项目描述：An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/unclebob/ub-mode</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/wangzan101/Mika</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：5.3k
-- 🔺 上周增长数量：3164⭐
-- 🔺 上月增长数量：3164⭐
-- 📅 开源时间：2026-10-28
-- 📝 项目描述：
+- ⭐ 总星标数量：6k
+- 🔺 上周增长数量：3339⭐
+- 🔺 上月增长数量：3339⭐
+- 📅 开源时间：2026-11-01
+- 📝 项目描述：An on-device AI agent for Android that operates apps and the web to get things done for you.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/pingdotgg/t3code</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/pengchujin/aerial-tv</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：32.6k
-- 🔺 上周增长数量：2966⭐
-- 🔺 上月增长数量：9103⭐
-- 📅 开源时间：2026-02-09
-- 📝 项目描述：
+- ⭐ 总星标数量：9.3k
+- 🔺 上周增长数量：3316⭐
+- 🔺 上月增长数量：7303⭐
+- 📅 开源时间：2026-10-22
+- 📝 项目描述：给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：5.5k
-- 🔺 上周增长数量：2703⭐
-- 🔺 上月增长数量：2703⭐
-- 📅 开源时间：2026-10-24
-- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/DuarteSantos8/openGym</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：17.7k
-- 🔺 上周增长数量：2471⭐
-- 🔺 上月增长数量：13574⭐
+- ⭐ 总星标数量：19.1k
+- 🔺 上周增长数量：2898⭐
+- 🔺 上月增长数量：14986⭐
 - 📅 开源时间：2026-07-19
 - 📝 项目描述：Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/NVIDIA/SkillSpector</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/rddmwmddr/android-ad-cleaner</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：23.5k
-- 🔺 上周增长数量：2439⭐
-- 🔺 上月增长数量：5301⭐
-- 📅 开源时间：2026-03-21
-- 📝 项目描述：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5.9k
-- 🔺 上周增长数量：2199⭐
-- 🔺 上月增长数量：3872⭐
-- 📅 开源时间：2026-10-18
-- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">11.  https://github.com/NVIDIA/OpenShell</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：20.8k
-- 🔺 上周增长数量：2126⭐
-- 🔺 上月增长数量：10284⭐
-- 📅 开源时间：2026-02-25
-- 📝 项目描述：OpenShell is the safe, private runtime for autonomous AI agents.
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/JustAResearcher/gpu-unlock-ada</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：4.6k
-- 🔺 上周增长数量：2027⭐
-- 🔺 上月增长数量：2027⭐
-- 📅 开源时间：2026-10-26
-- 📝 项目描述：GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/anthropics/knowledge-work-plugins</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：34k
-- 🔺 上周增长数量：1896⭐
-- 🔺 上月增长数量：8401⭐
-- 📅 开源时间：2026-01-24
-- 📝 项目描述：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/rddmwmddr/android-ad-cleaner</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：5k
-- 🔺 上周增长数量：1851⭐
-- 🔺 上月增长数量：1851⭐
+- ⭐ 总星标数量：6.1k
+- 🔺 上周增长数量：2874⭐
+- 🔺 上月增长数量：2874⭐
 - 📅 开源时间：2026-10-28
 - 📝 项目描述：关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/storytold/artcraft</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">12.  https://github.com/CopilotKit/OpenBot</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：37.8k
-- 🔺 上周增长数量：1850⭐
-- 🔺 上月增长数量：30265⭐
-- 📅 开源时间：2022-04-01
-- 📝 项目描述：ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- ⭐ 总星标数量：10k
+- 🔺 上周增长数量：2813⭐
+- 🔺 上月增长数量：4413⭐
+- 📅 开源时间：2026-08-22
+- 📝 项目描述：Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/citrolabs/ego-lite</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">13.  https://github.com/anhao/ai-pose-gallery-zh</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：20.9k
-- 🔺 上周增长数量：1843⭐
-- 🔺 上月增长数量：4340⭐
-- 📅 开源时间：2026-04-16
-- 📝 项目描述：The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- ⭐ 总星标数量：5.8k
+- 🔺 上周增长数量：2667⭐
+- 🔺 上月增长数量：2667⭐
+- 📅 开源时间：2026-10-30
+- 📝 项目描述：中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/hypit-ai/hypit</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">14.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：26.8k
-- 🔺 上周增长数量：1759⭐
-- 🔺 上月增长数量：10450⭐
-- 📅 开源时间：2026-07-30
-- 📝 项目描述：Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+- ⭐ 总星标数量：32.7k
+- 🔺 上周增长数量：2655⭐
+- 🔺 上月增长数量：10852⭐
+- 📅 开源时间：2026-06-12
+- 📝 项目描述：Free and open-source macOS menu bar toolkit.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/ly05010419/MacNativeGames</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">15.  https://github.com/HeyPuter/everything</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：6.6k
-- 🔺 上周增长数量：1731⭐
-- 🔺 上月增长数量：3812⭐
+- ⭐ 总星标数量：6.8k
+- 🔺 上周增长数量：2652⭐
+- 🔺 上月增长数量：4737⭐
+- 📅 开源时间：2026-10-18
+- 📝 项目描述：We're rebuilding and open-sourcing the world’s software from scratch.
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">16.  https://github.com/xiaoyang111222/cn-math-taxonomy</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：6.4k
+- 🔺 上周增长数量：2353⭐
+- 🔺 上月增长数量：3588⭐
+- 📅 开源时间：2026-10-24
+- 📝 项目描述：数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">17.  https://github.com/deepseek-ai/DeepInfer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：25.2k
+- 🔺 上周增长数量：2205⭐
+- 🔺 上月增长数量：13245⭐
 - 📅 开源时间：2026-10-21
-- 📝 项目描述：Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
+- 📝 项目描述：DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">18.  https://github.com/NVIDIA/SkillSpector</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：24.2k
+- 🔺 上周增长数量：2185⭐
+- 🔺 上月增长数量：5827⭐
+- 📅 开源时间：2026-03-21
+- 📝 项目描述：Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">19.  https://github.com/baidu/Unlimited-OCR</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：29.9k
-- 🔺 上周增长数量：1667⭐
-- 🔺 上月增长数量：3659⭐
+- ⭐ 总星标数量：30.5k
+- 🔺 上周增长数量：1922⭐
+- 🔺 上月增长数量：3984⭐
 - 📅 开源时间：2026-06-24
 - 📝 项目描述：Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/vorssaint/vorssaint-utils</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">20.  https://github.com/jakubkrehel/skills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：31.2k
-- 🔺 上周增长数量：1665⭐
-- 🔺 上月增长数量：9874⭐
-- 📅 开源时间：2026-06-12
-- 📝 项目描述：Free and open-source macOS menu bar toolkit.
+- ⭐ 总星标数量：10.6k
+- 🔺 上周增长数量：1920⭐
+- 🔺 上月增长数量：3270⭐
+- 📅 开源时间：2026-07-10
+- 📝 项目描述：A collection of agent skills that help you build great interfaces.
 
 
 ---
@@ -234,5 +234,8 @@
 <center><span style="color: orangered">欢迎添加微信好友共同学习进步，微信号：open_github</center>
 <br/>
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
+<br/>
+<center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+nter><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
